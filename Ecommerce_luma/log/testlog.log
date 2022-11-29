@@ -1,0 +1,14 @@
+2022-11-27 16:25:37,976 - QA Test Lead -Tanu  -INFO - Start Automation in Chrome Browser
+2022-11-27 16:25:38,072 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-27 16:25:38,079 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-27 16:25:39,743 - QA Test Lead -Tanu  -INFO - User able to click on SignIn Button
+2022-11-27 16:25:40,578 - QA Test Lead -Tanu  -INFO - User able to enter Email address
+2022-11-27 16:25:40,812 - QA Test Lead -Tanu  -INFO - User able to enter Password
+2022-11-27 16:25:40,885 - QA Test Lead -Tanu  -INFO - User able to click on LogIn Button
+2022-11-27 16:25:42,130 - QA Test Lead -Tanu  -INFO - Start Automation in Chrome Browser
+2022-11-27 16:25:42,133 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 107.0.5304.62 (since Google Chrome 107 is installed in your machine)
+2022-11-27 16:25:42,136 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\tanvi\.m2\repository\webdriver\chromedriver\win32\107.0.5304.62\chromedriver.exe
+2022-11-27 16:25:43,515 - QA Test Lead -Tanu  -INFO - User able to click on SignIn Button
+2022-11-27 16:25:44,369 - QA Test Lead -Tanu  -INFO - User able to enter Email address
+2022-11-27 16:25:44,513 - QA Test Lead -Tanu  -INFO - User able to enter Password
+2022-11-27 16:25:44,567 - QA Test Lead -Tanu  -INFO - User able to click on LogIn Button
